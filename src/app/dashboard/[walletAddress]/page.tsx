@@ -92,7 +92,7 @@ const CreateCampaignModal = (
                     campaignGoal,
                     campaignDeadline
                 ],
-                publisher: "0x8e09881f563Ff435a45405cC26C51932A3b3Fa05",
+                publisher: "0x8aceC714f9906D5A8863F5e637CBA149978189C4",
                 version: "1.0.6",
             });
             alert("Contract deployed successfully!");
